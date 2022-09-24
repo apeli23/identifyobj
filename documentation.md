@@ -7,7 +7,7 @@ This article is to demonstrate how nextjs can be used to identify objects inside
 The final version of this project can be viewed on   [Codesandbox](/).
 
 <CodeSandbox
-title="webrtc"
+title=""
 id=" "
 />
 

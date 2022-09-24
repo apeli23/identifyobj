@@ -35,7 +35,7 @@ export default function Home() {
       <h1>Identify object in an image with Nextjs</h1>
       <div className="row">
         <div className="column">
-          <img ref={imageRef} src="sample.jpg" />
+          <img ref={imageRef} src="sample.png" />
 
         </div>
         <div className="column">
