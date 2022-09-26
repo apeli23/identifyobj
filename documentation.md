@@ -19,9 +19,9 @@ Basic/entry-level knowledge and understanding of javascript and React/Nextjs.
 
 ##  Setting Up the Sample Project
 
-Create your project's root directory: `npx create-next-app videocall`
+Create your project's root directory: `npx create-next-app identify`
 
-Head to the directory: `cd videocall`
+Head to the directory: `cd identify`
 
 We will use [Cloudinary](https://cloudinary.com/?ap=em) online storage feature to store the processed media files.
 
